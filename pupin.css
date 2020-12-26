@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&family=Dancing+Script:wght@600&family=Inconsolata:wght@500&display=swap');
+
+
+body {
+    background-color: #d0d3ce;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+}
+h3 {
+    color: rgb(27, 60, 121);
+}
+#pupin {
+    float: left;
+}
